@@ -1,0 +1,35 @@
+.header{
+	min-height: 200px;
+	background-color: #c1aba6;
+	font-family: arial;
+	font-size: 30px;
+}
+
+.wrapper{
+	overflow: hidden;
+}
+
+.section1{
+	min-height: 400px;
+	background-color: #533b4d;
+	width: 70%;
+	float: left;
+	font-family: arial;
+	font-size: 30px;
+}
+
+.section2{
+	min-height: 400px;
+	background-color: #f564a9;
+	width: 30%;
+	float: right;
+	font-family: arial;
+	font-size: 30px;
+}
+
+.footer{
+	min-height: 150px;
+	background-color: #fae3c6;
+	font-family: arial;
+	font-size: 30px;
+}
